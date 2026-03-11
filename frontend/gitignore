@@ -1,0 +1,6 @@
+node_modules/
+.idea/
+backend/node_modules/
+backend/.idea/
+.env
+stagematch-main/
